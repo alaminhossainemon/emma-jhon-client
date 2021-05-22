@@ -4,3 +4,4 @@
 2. Router 
 3. Auth (firebase integrated)
 4. API connection with localhost (node and mongodb)
+# emma-jhon-client
